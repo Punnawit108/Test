@@ -1,0 +1,10 @@
+
+span{
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    padding:20px;
+    margin:20px;
+    display:block;
+    justify-content: space-between;
+}
